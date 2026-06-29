@@ -1,6 +1,6 @@
 {
   "SERVER_BLACK_URL": "http://protecpx.sbs:80",
   "SERVER_GOLD_URL": "http://nuvem.sbs:80/",
-  "SERVER_DIAMOND_URL": "http://radiodiamond.site:80/",
-  "SERVER_DARK_URL": "http://listinhaplus.cdnfire.site:80"
+  "SERVER_DIAMOND_URL": "http://listinhaplus.cdnfire.site:80/",
+  "SERVER_DARK_URL": "http://nuvix.site:80"
 }
