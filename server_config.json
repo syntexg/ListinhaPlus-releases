@@ -1,4 +1,5 @@
 {
+  "SYNC_API_URL": "https://157.151.29.166/app-api/v1/",
   "SERVER_BLACK_URL": "http://blackbr.pro:80",
   "SERVER_GOLD_URL": "http://zeroum.pro:80/",
   "SERVER_DIAMOND_URL": "http://radiodiamomd.com:80",
