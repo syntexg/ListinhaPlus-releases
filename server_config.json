@@ -1,9 +1,8 @@
 {
   "SYNC_API_URL": "https://157.151.29.166/app-api/v1/",
-  "SERVER_BLACK_URL": "http://brblack.site:80",
+  "SERVER_BLACK_URL": "http://primelux.space:80",
   "SERVER_GOLD_URL": "http://onez1.site:80",
   "SERVER_DIAMOND_URL": "http://radiodiamomd.com:80",
   "SERVER_DARK_URL": "http://nvix.site:80",
-  "10": "http://157.151.29.166:80",
-  "20": "http://xboxbr.fun"
+  "10": "http://157.151.29.166:80"
 }
